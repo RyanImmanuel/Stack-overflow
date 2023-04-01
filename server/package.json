@@ -5,8 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon index.js",
-    "build": "CI=false react-scripts build"
+    "start": "nodemon index.js"
   },
   "author": "Ryan Immanuel",
   "license": "ISC",
